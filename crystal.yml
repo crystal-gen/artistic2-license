@@ -1,0 +1,8 @@
+name: artistic2-license
+version: 0.1.0
+description: Artistic License 2.0 generator
+
+gen:
+  file:
+    license:
+      dest: LICENSE
